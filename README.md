@@ -7,6 +7,10 @@ A curated list of awesome EasyGraph projects.
 
 ## Table of Contents
 
+- [Awesome EasyGraph ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-easygraph-)
+  - [Table of Contents](#table-of-contents)
+  - [Official links](#official-links)
+  - [GitHub Actions](#github-actions)
 ## Official links
 
 - [EasyGraph Homepage](eg)
@@ -18,6 +22,9 @@ A curated list of awesome EasyGraph projects.
 ## GitHub Actions
 - [tddschn/install-easygraph](https://github.com/marketplace/actions/install-easygraph) - builds and installs the easygraph from source, on ubuntu-latest and macos-latest.
 - [tddschn/easygraph-bench](eg-bench-actions) - Benchmarking easygraph (Python / C++) and networkx, fork the repo to use. Not recommended due to the uncertainty of hardware used for hosted GitHub Actions.
+
+## Papers
+- WIP
 
 [eg]: https://easy-graph.github.io/
 [eg-github]: https://github.com/easy-graph/Easy-Graph

@@ -1,0 +1,6 @@
+easygraph
+graphtool
+igraph
+networkit
+networkx
+tddschn

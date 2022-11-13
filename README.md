@@ -1,4 +1,4 @@
-# Awesome EasyGraph [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome EasyGraph [![Awesome](awesome-badge)](awesome-repo)
 
 
 A curated list of awesome EasyGraph projects.
@@ -7,10 +7,12 @@ A curated list of awesome EasyGraph projects.
 
 ## Table of Contents
 
-- [Awesome EasyGraph ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-easygraph-)
+- [Awesome EasyGraph ![Awesome](awesome-badge)](#awesome-easygraph-)
   - [Table of Contents](#table-of-contents)
   - [Official links](#official-links)
   - [GitHub Actions](#github-actions)
+  - [Papers](#papers)
+
 ## Official links
 
 - [EasyGraph Homepage](eg)
@@ -30,4 +32,6 @@ A curated list of awesome EasyGraph projects.
 [eg-github]: https://github.com/easy-graph/Easy-Graph
 [eg-bench]: https://github.com/tddschn/easygraph-bench
 [eg-bench-actions]: https://github.com/tddschn/easygraph-bench-actions
+[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-repo]: https://github.com/sindresorhus/awesome
 

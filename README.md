@@ -1,13 +1,14 @@
-# Awesome EasyGraph [![Awesome](awesome-badge)](awesome-repo)
+# Awesome EasyGraph  
+[![Awesome][awesome-badge]](awesome-repo)
 
 
 A curated list of awesome EasyGraph projects.
 
-> [EasyGraph](eg) is an open source graph processing library, which covers advanced graph processing methods in structural hole spanners detection, graph embedding and several classic methods.
+> [EasyGraph][eg] is an open source graph processing library, which covers advanced graph processing methods in structural hole spanners detection, graph embedding and several classic methods.
 
 ## Table of Contents
 
-- [Awesome EasyGraph ![Awesome](awesome-badge)](#awesome-easygraph-)
+- [Awesome EasyGraph](#awesome-easygraph)
   - [Table of Contents](#table-of-contents)
   - [Official links](#official-links)
   - [GitHub Actions](#github-actions)
@@ -15,15 +16,15 @@ A curated list of awesome EasyGraph projects.
 
 ## Official links
 
-- [EasyGraph Homepage](eg)
-- [EasyGraph GitHub Page](eg-github)
-- [easygraph-bench](eg-bench) - Benchmarking code and results of 
+- [EasyGraph Homepage][eg]
+- [EasyGraph GitHub Page][eg-github]
+- [easygraph-bench][eg-bench] - Benchmarking code and results of 
   - easygraph (Python / C++) and networkx
   -`easygraph`, `networkx`, `igraph`, `graphtool`, `networkit`, `snap-stanford` 
   
 ## GitHub Actions
 - [tddschn/install-easygraph](https://github.com/marketplace/actions/install-easygraph) - builds and installs the easygraph from source, on ubuntu-latest and macos-latest.
-- [tddschn/easygraph-bench](eg-bench-actions) - Benchmarking easygraph (Python / C++) and networkx, fork the repo to use. Not recommended due to the uncertainty of hardware used for hosted GitHub Actions.
+- [tddschn/easygraph-bench][eg-bench-actions] - Benchmarking easygraph (Python / C++) and networkx, fork the repo to use. Not recommended due to the uncertainty of hardware used for hosted GitHub Actions.
 
 ## Papers
 - WIP

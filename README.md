@@ -12,6 +12,7 @@ A curated list of awesome EasyGraph projects.
   - [Table of Contents](#table-of-contents)
   - [Official links](#official-links)
   - [GitHub Actions](#github-actions)
+  - [Analysis](#analysis)
   - [Papers](#papers)
 
 ## Official links
@@ -26,6 +27,10 @@ A curated list of awesome EasyGraph projects.
 - [tddschn/install-easygraph](https://github.com/marketplace/actions/install-easygraph) - builds and installs the easygraph from source, on ubuntu-latest and macos-latest.
 - [tddschn/easygraph-bench][eg-bench-actions] - Benchmarking easygraph (Python / C++) and networkx, fork the repo to use. Not recommended due to the uncertainty of hardware used for hosted GitHub Actions.
 
+## Analysis
+- [tddschn/easygraph-function-time-complexities][eg-time-complexity] - Time Complexities of EasyGraph Functions
+- [tddschn/networkx-easygraph-comparison][eg-nx-comparison] - Comparison of EasyGraph and NetworkX (a bit outdated)
+
 ## Papers
 - WIP
 
@@ -35,4 +40,5 @@ A curated list of awesome EasyGraph projects.
 [eg-bench-actions]: https://github.com/tddschn/easygraph-bench-actions
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-repo]: https://github.com/sindresorhus/awesome
-
+[eg-time-complexity]: https://github.com/tddschn/easygraph-function-time-complexities
+[eg-nx-comparison]: https://github.com/tddschn/networkx-easygraph-comparison

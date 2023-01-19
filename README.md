@@ -19,6 +19,7 @@ A curated list of awesome EasyGraph projects.
 
 - [EasyGraph Homepage][eg]
 - [EasyGraph GitHub Page][eg-github]
+- [Scripts and guides for generating documentation for EasyGraph][eg-doc-source]
 - [easygraph-bench][eg-bench] - Benchmarking code and results of 
   - easygraph (Python / C++) and networkx
   -`easygraph`, `networkx`, `igraph`, `graphtool`, `networkit`, `snap-stanford` 
@@ -37,6 +38,7 @@ A curated list of awesome EasyGraph projects.
 [eg]: https://easy-graph.github.io/
 [eg-github]: https://github.com/easy-graph/Easy-Graph
 [eg-bench]: https://github.com/tddschn/easygraph-bench
+[eg-doc-source]: https://github.com/tddschn/easygraph-doc-source
 [eg-bench-actions]: https://github.com/tddschn/easygraph-bench-actions
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-repo]: https://github.com/sindresorhus/awesome

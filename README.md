@@ -14,6 +14,7 @@ A curated list of awesome EasyGraph projects.
   - [GitHub Actions](#github-actions)
   - [Analysis](#analysis)
   - [Papers on Cell / Pattern](#papers-on-cell--pattern)
+  - [Media](#media)
 
 ## Official links
 
@@ -44,3 +45,7 @@ A curated list of awesome EasyGraph projects.
 [awesome-repo]: https://github.com/sindresorhus/awesome
 [eg-time-complexity]: https://github.com/tddschn/easygraph-function-time-complexities
 [eg-nx-comparison]: https://github.com/tddschn/networkx-easygraph-comparison
+
+## Media
+
+- https://teddysc.me/blog/projects/easygraph

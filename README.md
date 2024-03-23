@@ -13,7 +13,7 @@ A curated list of awesome EasyGraph projects.
   - [Official links](#official-links)
   - [GitHub Actions](#github-actions)
   - [Analysis](#analysis)
-  - [Papers](#papers)
+  - [Papers on Cell / Pattern](#papers-on-cell--pattern)
 
 ## Official links
 
@@ -32,8 +32,8 @@ A curated list of awesome EasyGraph projects.
 - [tddschn/easygraph-function-time-complexities][eg-time-complexity] - Time Complexities of EasyGraph Functions
 - [tddschn/networkx-easygraph-comparison][eg-nx-comparison] - Comparison of EasyGraph and NetworkX (a bit outdated)
 
-## Papers
-- WIP
+## Papers on Cell / Pattern
+- https://www.cell.com/patterns/fulltext/S2666-3899(23)00218-0
 
 [eg]: https://easy-graph.github.io/
 [eg-github]: https://github.com/easy-graph/Easy-Graph
